@@ -1,24 +1,38 @@
-import logo from './logo.svg';
 import './App.css';
+import CssBaseline from '@material-ui/core/CssBaseline';
+
+// Page imports
+import LandingPage from './LandingPage/LandingPage';
+import SearchHomePage from './SearchHomePage/SearchHomePage';
+import BusinessInfoPage from './BusinessInfoPage/BusinessInfoPage';
+
+// Shared Component Import 
+import NavBar from './Shared/NavBar/NavBar'
+
+// React Router
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>			
+					<NavBar/>
+					<section >
+					<Switch>
+						<Route exact path='/welcome' component={LandingPage} />
+						<Route exact path='/search' component={SearchHomePage} />
+						<Route exact path='/info' component={BusinessInfoPage} />
+						{/* <PrivateRoute exact path='/home' component={Home} /> */}
+					</Switch>
+					<CssBaseline />			
+					</section>
+				</Router>
+   
   );
 }
 
