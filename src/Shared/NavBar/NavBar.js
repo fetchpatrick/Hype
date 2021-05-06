@@ -1,7 +1,5 @@
-import React, {useEffect, useState} from 'react';
+import React, { useState} from 'react';
 
-// Router Import
-import { useHistory } from 'react-router-dom';
 
 // Css Import
 import './styles/Navbar.css';
@@ -9,20 +7,14 @@ import './styles/Navbar.css';
 // Logo Import
 import LogoSrc from './assetts/HYPE.svg';
 
+import { useAuth0 } from '@auth0/auth0-react';
+
 
 
 const NavBar = () => {
   const [navChange, setNavChange] = useState(false)
-
-	const history = useHistory();
-
-	const token = localStorage.token;
+  const {isAuthenticated, loginWithPopup, logout} = useAuth0();
   
-  const logOut = () => {
-    localStorage.clear();
-    history.push('/welcome');
-  };
-
   const changeNavColor = () => {
     if(window.scrollY >= 80) {
       setNavChange(true)
@@ -42,13 +34,13 @@ const NavBar = () => {
       </div>
       <div className='navbar__auth' >
         {
-          token ? 
+          isAuthenticated ? 
           <>
-            <button className='navbar__auth--logoutbutton' onClick={logOut}>Log Out</button>
+            <button className='navbar__auth--logoutbutton' onClick={() => logout({ returnTo: window.location.origin })}>Log Out</button>
           </>
           :
           <>
-            <button className='navbar__auth--loginbutton'>Log In</button>
+            <button onClick={() => loginWithPopup()} className='navbar__auth--loginbutton'>Log In</button>
             <button className='navbar__auth--signupbutton'>Sign Up</button>
           </>
         }

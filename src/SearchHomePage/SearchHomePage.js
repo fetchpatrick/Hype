@@ -1,7 +1,9 @@
 import React from 'react'
 
-import SearchBar from './SearchBar/SearchBar'
+import SearchBar from './SearchResults/SearchBar/SearchBar'
 import Ratings from '../Shared/Ratings/Ratings'
+
+import SearchResults from './SearchResults/SearchResults'
 
 function SearchHomePage() {
     return (
@@ -11,18 +13,13 @@ function SearchHomePage() {
                     <SearchBar/>
                 </div>
             </div>
-            <div style={{border:'2px solid green', height:'7vh', }}>
+            {/* <div style={{border:'2px solid green', height:'7vh', }}>
                 <div>
                     <Ratings/>
                 </div>
-            </div>
-            <div style={{border:'2px solid blue', height:'60vh', display:'flex'  }}>
-                <div style={{ backgroundColor:'yellow',width:'30vw', height: 'auto'}}>
-                    {/* <SearchResults/> */}
-                </div>
-                <div style={{ backgroundColor:'brown', width:'60vw', height: '100%'}}>
-                    {/* <GoogleMap/> */}
-                </div>
+            </div> */}
+            <div style={{ height:'75vh', width:'90vw', border:'2px solid red', display:'flex' }}>
+                    <SearchResults/>
             </div>
         </section>
     )

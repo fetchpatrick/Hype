@@ -1,8 +1,10 @@
-https://hype.hasura.app/v1/graphql
+// https://hype.hasura.app/v1/graphql
 
 
 businesses = [
-    {
+    
+   
+   {
         "business_id":"6iYb2HFDywm3zjuRg0shjw",
         "name":"Oskar Blues Taproom",
         "address":"921 Pearl St",
@@ -48,7 +50,10 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-23:0"
         }
-     }{
+     }
+     
+     
+     {
         "business_id":"tCbdrRPZA0oiIYSmHG3J0w",
         "name":"Flying Elephants at PDX",
         "address":"7000 NE Airport Way",
@@ -91,7 +96,9 @@ businesses = [
            "Saturday":"5:0-18:0",
            "Sunday":"5:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"bvN78flM8NLprQ1a1y5dRg",
         "name":"The Reclaimory",
         "address":"4720 Hawthorne Ave",
@@ -117,7 +124,9 @@ businesses = [
            "Saturday":"11:0-18:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"oaepsyvc0J17qwi8cfrOWg",
         "name":"Great Clips",
         "address":"2566 Enterprise Rd",
@@ -137,7 +146,9 @@ businesses = [
         },
         "categories":"Beauty & Spas, Hair Salons",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"PE9uqAjdw0E4-8mjGl3wVA",
         "name":"Crossfit Terminus",
         "address":"1046 Memorial Dr SE",
@@ -163,7 +174,9 @@ businesses = [
            "Friday":"16:0-19:0",
            "Saturday":"9:0-11:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"D4JtQNTI4X3KcbzacDJsMw",
         "name":"Bob Likes Thai Food",
         "address":"3755 Main St",
@@ -205,7 +218,9 @@ businesses = [
            "Saturday":"17:0-21:0",
            "Sunday":"17:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"t35jsh9YnMtttm69UCp7gw",
         "name":"Escott Orthodontics",
         "address":"2511 Edgewater Dr",
@@ -230,7 +245,9 @@ businesses = [
            "Thursday":"8:0-17:30",
            "Friday":"8:0-17:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"jFYIsSb7r1QeESVUnXPHBw",
         "name":"Boxwood Biscuit",
         "address":"740 S High St",
@@ -248,7 +265,9 @@ businesses = [
            "Saturday":"8:0-14:0",
            "Sunday":"8:0-14:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"N3_Gs3DnX4k9SgpwJxdEfw",
         "name":"Lane Wells Jewelry Repair",
         "address":"7801 N Lamar Blvd, Ste A140",
@@ -280,7 +299,9 @@ businesses = [
            "Thursday":"12:15-17:0",
            "Friday":"12:15-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"tXvdYGvlEceDljN8gt2_3Q",
         "name":"Capital City Barber Shop",
         "address":"615 W Slaughter Ln, Ste 113",
@@ -307,7 +328,9 @@ businesses = [
            "Friday":"9:0-19:0",
            "Saturday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"rYs_1pNB_RMtn5WQh55QDA",
         "name":"Chautauqua General Store",
         "address":"100 Clematis Dr",
@@ -340,7 +363,9 @@ businesses = [
            "Saturday":"8:0-20:0",
            "Sunday":"8:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"hCABMnKtwo4Y9alQDxh2kw",
         "name":"Star Kreations Salon and Spa",
         "address":"124 Newbury St, Unit C",
@@ -373,7 +398,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"7:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"HPA_qyMEddpAEtFof02ixg",
         "name":"Mr G's Pizza & Subs",
         "address":"474 Lowell St",
@@ -417,7 +444,9 @@ businesses = [
            "Friday":"11:0-22:0",
            "Saturday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ufCxltuh56FF4-ZFZ6cVhg",
         "name":"Sister Honey's",
         "address":"247 E Michigan St",
@@ -448,7 +477,9 @@ businesses = [
            "Friday":"11:0-18:0",
            "Saturday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"i_t_30RYVUDdZzFIcw80NQ",
         "name":"Uncle Sam's Pawn Shop",
         "address":"225 E Main St",
@@ -475,7 +506,9 @@ businesses = [
            "Friday":"9:0-17:30",
            "Saturday":"9:0-17:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"g7CEhqBIpwTg6ERcMkCmrQ",
         "name":"Finish Line Car Wash",
         "address":"5510 Memorial Dr",
@@ -500,7 +533,9 @@ businesses = [
            "Saturday":"8:0-18:30",
            "Sunday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"GfWJ19Js7wX9rwaHQ7KbGw",
         "name":"Everything POP Shopping & Dining",
         "address":"1050 Century Dr",
@@ -537,7 +572,9 @@ businesses = [
            "Saturday":"7:0-22:0",
            "Sunday":"7:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"MUeUyqhMja-nnmvgP4rBBg",
         "name":"Saratoga Resort Villas",
         "address":"4787 W Irlo Bronson Hwy",
@@ -565,7 +602,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"6fT0lYr_UgWSCZs_w1PBTQ",
         "name":"Salter School",
         "address":"2 Florence St",
@@ -587,7 +626,9 @@ businesses = [
            "Friday":"8:0-17:0",
            "Saturday":"9:0-13:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"dmbbf3AqeG61_QHRZi1M1w",
         "name":"RaceTrac",
         "address":"350 W Sand Lake Rd",
@@ -618,7 +659,9 @@ businesses = [
         },
         "categories":"Automotive, American (Traditional), Gas Stations, Restaurants, Food, Beer, Wine & Spirits",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"DLbEQySMW3X7KvkybpEYkw",
         "name":"Jasmine Nail Spa",
         "address":"4370 SE King Rd, Ste 125",
@@ -643,7 +686,9 @@ businesses = [
            "Friday":"9:30-18:0",
            "Saturday":"9:30-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"AvT2mGkdYwU0ghqDfs-OlQ",
         "name":"Tire Town Auto Service",
         "address":"2032 Hastings Street E",
@@ -665,7 +710,9 @@ businesses = [
            "Friday":"9:0-17:30",
            "Saturday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ynTjh_FdhbG5hY69HsEoaA",
         "name":"Cascade Restaurant",
         "address":"Hyatt Regency Grand Cypress, 1 Grand Cypress Blvd",
@@ -707,7 +754,9 @@ businesses = [
            "Saturday":"7:0-22:0",
            "Sunday":"7:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"j68RDnvOaYEwGcY9cTEHpA",
         "name":"Pittock Mansion",
         "address":"3229 NW Pittock Dr",
@@ -733,7 +782,9 @@ businesses = [
            "Saturday":"10:0-16:0",
            "Sunday":"10:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"nTIhpR7MhsALPwg_Hh14EA",
         "name":"DoubleTree by Hilton Hotel Austin",
         "address":"6505 N Interstate 35",
@@ -760,7 +811,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Y2ojrodkbEheGttZF8wYEQ",
         "name":"Wolf Camera and Image",
         "address":"3141 Piedmont Rd NE",
@@ -788,7 +841,9 @@ businesses = [
            "Saturday":"10:0-19:0",
            "Sunday":"12:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"hcRxdDg7DYryCxCoI8ySQA",
         "name":"Longwood Galleria",
         "address":"340-350 Longwood Ave",
@@ -830,7 +885,9 @@ businesses = [
            "Saturday":"6:30-22:0",
            "Sunday":"6:30-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"8XyEpVdAO0o6iVkVxkWosQ",
         "name":"PS Property Management Company",
         "address":"2506 S Lamar Blvd, Ste 2",
@@ -853,7 +910,9 @@ businesses = [
            "Thursday":"9:0-17:0",
            "Friday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"arEXRZYu8220bFBJ3VAh3A",
         "name":"Blake's On The Park",
         "address":"227 10th St NE",
@@ -893,7 +952,9 @@ businesses = [
            "Saturday":"13:0-3:0",
            "Sunday":"13:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"jGennaZUr2MsJyRhijNBfA",
         "name":"Legal Sea Foods",
         "address":"1 Harborside Dr",
@@ -943,7 +1004,9 @@ businesses = [
            "Saturday":"6:0-21:0",
            "Sunday":"6:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"XlLPnkHkm0Q7NLQrAJ6DRQ",
         "name":"Nancy Wilde, LMT",
         "address":"",
@@ -968,7 +1031,9 @@ businesses = [
            "Thursday":"13:0-21:0",
            "Saturday":"9:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_bZOUUc6Sr_W3BxbOUJacw",
         "name":"Prince of Peace",
         "address":"14175 NW Cornell Rd",
@@ -989,7 +1054,9 @@ businesses = [
            "Thursday":"8:0-15:30",
            "Friday":"8:0-15:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"uMGsjQGT35rX4AAt1Hp9og",
         "name":"Laurelhurst Chiropractic",
         "address":"2705 E Burnside St, Ste 213",
@@ -1014,7 +1081,9 @@ businesses = [
            "Wednesday":"9:0-18:0",
            "Thursday":"9:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"QciD6FbNklaJvUbLExD4Nw",
         "name":"ARGO",
         "address":"3790 Canada Way, Unit 108",
@@ -1058,7 +1127,9 @@ businesses = [
            "Friday":"11:30-21:0",
            "Saturday":"11:30-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"vOMGjOSKtAKWWW-F_-tiAQ",
         "name":"Brewer\/Burroughs Tot Lot",
         "address":"Brewer St",
@@ -1077,7 +1148,9 @@ businesses = [
         },
         "categories":"Playgrounds, Active Life",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"iPD8BBvea6YldQZPHzVrSQ",
         "name":"Espresso Minute",
         "address":"334 Mass Ave",
@@ -1119,7 +1192,9 @@ businesses = [
            "Saturday":"8:0-21:0",
            "Sunday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"jx91IMdGOmLOo8h_F9z39g",
         "name":"Cleary's Restaurant & Spirits",
         "address":"12429 NE Glisan St",
@@ -1160,7 +1235,9 @@ businesses = [
            "Saturday":"7:0-0:0",
            "Sunday":"7:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"NVfOn7TdnHbaGH97CVB_Qg",
         "name":"McKinley Chiropractic",
         "address":"5625 Eiger Rd, Ste 160",
@@ -1185,7 +1262,9 @@ businesses = [
            "Thursday":"12:0-17:45",
            "Friday":"9:0-12:45"
         }
-     }{
+     }
+     
+     {
         "business_id":"Xw8tuI30T-xihpzwBV-zJg",
         "name":"El Pollo Rey",
         "address":"1725 E Riverside Dr",
@@ -1216,7 +1295,9 @@ businesses = [
         },
         "categories":"Food Trucks, Restaurants, Specialty Food, Food, Mexican, Ethnic Food",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"s8eTWEtW5WcnL2kUxrOVmw",
         "name":"Austin Regional Clinic: ARC Quarry Lake",
         "address":"4515 Seton Center Pkwy, Ste 220",
@@ -1241,7 +1322,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"OmdMTKZe3j4oUkDrpru9VA",
         "name":"Pickens, Jewelers",
         "address":"480 E Paces Ferry Rd NE",
@@ -1269,7 +1352,9 @@ businesses = [
            "Thursday":"9:0-17:0",
            "Friday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"NRPemqVb4qpWFF0Avq_6OQ",
         "name":"Eurasia Sushi Bar & Seafood",
         "address":"7101 W Hwy 71, Ste C-13",
@@ -1321,7 +1406,9 @@ businesses = [
            "Saturday":"11:0-22:0",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"TRToVIbaVtu1KOE8DR9gCw",
         "name":"Texas Roadhouse",
         "address":"2457 S Highway 27",
@@ -1367,7 +1454,9 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Yyym58vWvlRPuMCOICWRBw",
         "name":"Shirley's Tape And Shears",
         "address":"102 E 9th St",
@@ -1394,7 +1483,9 @@ businesses = [
            "Saturday":"7:0-17:45",
            "Sunday":"7:0-17:45"
         }
-     }{
+     }
+     
+     {
         "business_id":"BFd5KnVmxkFH3WjbydJI3Q",
         "name":"Sam's Club",
         "address":"355 State Rd 436",
@@ -1416,7 +1507,9 @@ businesses = [
         },
         "categories":"Convenience Stores, Bakeries, Food, Grocery",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"J0qv-BVQKQwImRZQ1_ZKdQ",
         "name":"USA Performance Auto",
         "address":"12841 Whitaker Way",
@@ -1441,7 +1534,9 @@ businesses = [
            "Thursday":"8:0-17:30",
            "Friday":"8:0-17:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"D2VwAQBBxfm_l9rYesXaxQ",
         "name":"The Daily Stroll",
         "address":"417 Harvard St",
@@ -1463,7 +1558,9 @@ businesses = [
            "Friday":"7:0-19:0",
            "Saturday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Xi2GGNzOiUS8r6WCFvu-fw",
         "name":"Kerala Kitchen",
         "address":"103- 9386 120 Street",
@@ -1493,7 +1590,9 @@ businesses = [
            "Saturday":"11:0-22:0",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"0b9OJG4DWUqhdLotm_La7Q",
         "name":"Mid Century Modern Home",
         "address":"1041 Kingsway",
@@ -1518,7 +1617,9 @@ businesses = [
            "Saturday":"11:0-18:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"1bT6-v29xAoA0ELXF1Ncjw",
         "name":"MARTA - Doraville Station",
         "address":"6000 New Peachtree Rd",
@@ -1541,7 +1642,9 @@ businesses = [
            "Saturday":"8:0-17:0",
            "Sunday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"5PsApTz-WqhF_-8mfqGtGw",
         "name":"Cafe Yumm!",
         "address":"301 SW Morrison St",
@@ -1584,7 +1687,9 @@ businesses = [
            "Saturday":"10:0-16:0",
            "Sunday":"10:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"w4qVflIAbdklzG3mnKmQsg",
         "name":"Magical Pizza Express",
         "address":"3262 Vineland Rd, Ste 106",
@@ -1603,7 +1708,9 @@ businesses = [
         },
         "categories":"Italian, Restaurants",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"Of6xu3pY3eHe2yhiyz2dvg",
         "name":"Taco Bell",
         "address":"3255 28th Street",
@@ -1646,7 +1753,9 @@ businesses = [
            "Saturday":"7:0-2:0",
            "Sunday":"7:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"djolOChjDtxniurUFP_SXA",
         "name":"Panda Express",
         "address":"1460 Rinehart Rd",
@@ -1689,7 +1798,9 @@ businesses = [
            "Saturday":"10:30-21:30",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Z2JC3Yrz82kyS86zEVJG5A",
         "name":"Gigi's Roast Beef & Pizza",
         "address":"5 Center St",
@@ -1729,7 +1840,9 @@ businesses = [
            "Saturday":"11:0-22:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"TY5PqlMGI1ByMTY6itVHYQ",
         "name":"Seven A's Locksmith",
         "address":"8A Glenville Ave",
@@ -1755,7 +1868,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"XymxusqpIsZFmN_QNQW_fw",
         "name":"Austin Community College - Rio Grande Campus",
         "address":"1212 Rio Grande",
@@ -1776,7 +1891,9 @@ businesses = [
            "Thursday":"7:0-22:0",
            "Friday":"7:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"2-p3yffS70GvqJurMP_pgQ",
         "name":"Starbucks",
         "address":"7910 Winter Garden-Vineland Rd, Ste 100",
@@ -1805,7 +1922,9 @@ businesses = [
            "Saturday":"5:0-21:0",
            "Sunday":"5:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"CPmMlFgxNtyIZaITHA5SrQ",
         "name":"Quincy Mutual Fire Ins Company",
         "address":"57 Washington St",
@@ -1820,7 +1939,9 @@ businesses = [
         "attributes":null,
         "categories":"Insurance, Financial Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"s7DzD9VDhb7pjmQegc7TWg",
         "name":"E&R Packing and Delivery",
         "address":"2515 NE Expressway",
@@ -1846,7 +1967,9 @@ businesses = [
            "Saturday":"8:0-23:30",
            "Sunday":"8:0-23:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"Nhw7on5kevbomM-GzRXy_A",
         "name":"Texas Global Passport Services",
         "address":"2400 Nueces St, Ste B (Fl 2)",
@@ -1867,7 +1990,9 @@ businesses = [
            "Thursday":"8:0-16:0",
            "Friday":"8:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"bRsDZ44CD3uhGnRY3NeQhQ",
         "name":"Wendy's",
         "address":"6247 Mcneil Drive",
@@ -1906,7 +2031,9 @@ businesses = [
            "Saturday":"6:30-1:0",
            "Sunday":"6:30-1:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"z8-_6l5EhX5NuPfWzJYQMA",
         "name":"Great Wraps",
         "address":"3393 Peachtree Rd NE",
@@ -1939,7 +2066,9 @@ businesses = [
            "Saturday":"7:0-21:0",
            "Sunday":"8:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"qbZJh9lR0gh4Wca96NQv9g",
         "name":"Chuck E. Cheese",
         "address":"7456 W Colonial Dr",
@@ -1981,7 +2110,9 @@ businesses = [
            "Saturday":"11:0-21:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"sSX4BXohwSfMJVhHn4nh2w",
         "name":"Lumber Liquidators - East Portland",
         "address":"12225 NE Glisan St",
@@ -2009,7 +2140,9 @@ businesses = [
            "Saturday":"10:0-17:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"z-0oY7VxQMQw3JHvdPejrA",
         "name":"Olmecas Mexican Restaurant",
         "address":"2121 E Oltorf St",
@@ -2051,7 +2184,9 @@ businesses = [
            "Saturday":"7:0-23:30",
            "Sunday":"7:0-23:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"6MEqn13ZdrP6Icc2p2qb2g",
         "name":"Feitoza Service",
         "address":"",
@@ -2076,7 +2211,9 @@ businesses = [
            "Friday":"8:0-18:0",
            "Saturday":"8:0-13:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"buTr0hMiyDbjQvFJgm-Eew",
         "name":"JP Licks",
         "address":"611 Assembly Row",
@@ -2120,7 +2257,9 @@ businesses = [
            "Saturday":"8:0-0:0",
            "Sunday":"8:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"G6xF2EGY-F04iFhq5sX8MQ",
         "name":"MJB Restoration",
         "address":"",
@@ -2137,7 +2276,9 @@ businesses = [
         },
         "categories":"Carpenters, Painters, Damage Restoration, Home Services, Decks & Railing, Contractors",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"QkLMGBIP5Pp040l0Y9L0iA",
         "name":"Valley Chrysler-Dodge",
         "address":"2100 30th St",
@@ -2160,7 +2301,9 @@ businesses = [
            "Saturday":"9:0-18:0",
            "Sunday":"12:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"8iXIaO3OYdnOHkxabiqdiQ",
         "name":"The Posh Spot",
         "address":"3621 Vinings Slope SE, Ste 1115",
@@ -2191,7 +2334,9 @@ businesses = [
            "Saturday":"9:0-19:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Xg12RikHzyFCgFBApWtcdw",
         "name":"The Golden Dog",
         "address":"1217 NE 99th St, Ste 107",
@@ -2211,7 +2356,9 @@ businesses = [
            "Friday":"8:0-17:0",
            "Saturday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"XmIPAzrfadxpEHbLi8QxRg",
         "name":"Camp Automotive",
         "address":"1475 Carroll Dr NW",
@@ -2234,7 +2381,9 @@ businesses = [
            "Thursday":"7:30-17:0",
            "Friday":"7:30-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"iX6_gILIkLUpO1r1BzwfvA",
         "name":"Park Theatre",
         "address":"3440 Cambie Street",
@@ -2251,7 +2400,9 @@ businesses = [
         },
         "categories":"Cinema, Arts & Entertainment",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"Mf9io8WkMyGautXuSSfGTg",
         "name":"Los Potrillos Mexican Restaurant & Bar",
         "address":"10722 NW Lakeshore Ave",
@@ -2296,7 +2447,9 @@ businesses = [
            "Saturday":"11:0-21:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"3ME_CSB1bo4F0QMhQRUeOA",
         "name":"Yan's China Bistro",
         "address":"146 Humphrey St",
@@ -2337,7 +2490,9 @@ businesses = [
            "Saturday":"11:30-23:0",
            "Sunday":"11:30-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"MEC2RzMZwPxzz_9rr0Cpog",
         "name":"Reliable Appliance Repair Crew",
         "address":"",
@@ -2352,7 +2507,9 @@ businesses = [
         "attributes":null,
         "categories":"Local Services, Appliances & Repair",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"m25WChNiebDi-uLgEPPpug",
         "name":"Nick's Towing & Recovery Service",
         "address":"1362 Washington St",
@@ -2377,7 +2534,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"O14glSxcoa0_jCmlPLfuCg",
         "name":"Closet Factory",
         "address":"355 Middlesex Ave, Ste 13",
@@ -2402,7 +2561,9 @@ businesses = [
            "Thursday":"8:30-16:30",
            "Friday":"8:30-16:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"gjMCRTs0IZbw9bZLG837Bg",
         "name":"CaveMan Cuisine",
         "address":"",
@@ -2420,7 +2581,9 @@ businesses = [
         },
         "categories":"Food, Food Delivery Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"Q-pFmFZ54AOgCwwi9kwzWw",
         "name":"Rh",
         "address":"400 Park Ave S, Ste 105",
@@ -2448,7 +2611,9 @@ businesses = [
            "Saturday":"10:0-19:0",
            "Sunday":"12:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Z4UNrp2VpqiEuc39eDsjdg",
         "name":"San Saba Spa",
         "address":"101 Lakeway Dr",
@@ -2469,7 +2634,9 @@ businesses = [
         },
         "categories":"Skin Care, Hair Salons, Hair Removal, Beauty & Spas, Day Spas, Nail Salons, Massage",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"zml5p2_hrHNDumKqsWGvfA",
         "name":"Community Thrift and Vintage",
         "address":"311 Carrall Street",
@@ -2499,7 +2666,9 @@ businesses = [
            "Saturday":"11:0-19:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"oT8WhLz_LP-2GPZa4vPzjw",
         "name":"Grand Villa Casino",
         "address":"4331 Dominion Street",
@@ -2516,7 +2685,9 @@ businesses = [
         },
         "categories":"Casinos, Arts & Entertainment",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"5xEfYJ3neT2flz7oU3ch4g",
         "name":"Tumblekids Watertown",
         "address":"201 Arlington St",
@@ -2541,7 +2712,9 @@ businesses = [
            "Friday":"14:0-20:0",
            "Saturday":"8:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xqBjjE3lsBWCEj1CulMGSg",
         "name":"Mile Post 5",
         "address":"900 NE 81st Ave, Ste 203",
@@ -2559,7 +2732,9 @@ businesses = [
         },
         "categories":"Shopping, Art Galleries, Arts & Entertainment",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"Q2vefh0tGhtCGQDK1FI7cw",
         "name":"Piece of Cake",
         "address":"3215 Roswell Rd NE",
@@ -2591,7 +2766,9 @@ businesses = [
            "Saturday":"10:0-17:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"DlGncLuo1YYdNiwHX2Z0OA",
         "name":"Bank of America",
         "address":"163 Clairmont Ave",
@@ -2606,7 +2783,9 @@ businesses = [
         "attributes":null,
         "categories":"Banks & Credit Unions, Financial Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"EGZ0fhB9k0ZlI5sHda4vFw",
         "name":"Andy's Frozen Custard",
         "address":"5381 International Dr",
@@ -2638,7 +2817,9 @@ businesses = [
            "Saturday":"11:0-23:30",
            "Sunday":"11:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"WuoNSCjFBH4OQTSNGc4l6w",
         "name":"Toscana European Day Spa & Salon",
         "address":"231 Newbury St",
@@ -2667,7 +2848,9 @@ businesses = [
            "Saturday":"9:0-18:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"EXo2OLA-gBqKtCa9hdDBkQ",
         "name":"BC Liquor Store",
         "address":"1655 Davie Street",
@@ -2694,7 +2877,9 @@ businesses = [
            "Saturday":"9:30-23:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Npm0cjoyWwyV13OULL9qOA",
         "name":"Nana's Ice Cream Scoop Shop",
         "address":"5224 NE Garfield Ave",
@@ -2716,7 +2901,9 @@ businesses = [
         },
         "categories":"Food, Ice Cream & Frozen Yogurt",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"jI0NfabCGtRZWH5S0jl6Pw",
         "name":"Sabor Latino - Puerto Rican Cuisine & Gallery",
         "address":"777 Deltona Blvd",
@@ -2757,7 +2944,9 @@ businesses = [
            "Saturday":"12:0-21:0",
            "Sunday":"12:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"HMXiuCxHDXqMH1hBpaHd9g",
         "name":"Whole Time Chicken",
         "address":"",
@@ -2792,7 +2981,9 @@ businesses = [
            "Saturday":"11:0-2:30",
            "Sunday":"12:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ZA3u0Nu5V6TqkcYh8U0zdg",
         "name":"B Street Coffee House",
         "address":"2190 W Burnside St",
@@ -2839,7 +3030,9 @@ businesses = [
            "Saturday":"7:0-15:0",
            "Sunday":"7:0-12:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"KUGRFwI1V_X8nd5Z7g66eg",
         "name":"Coolidge Hardware",
         "address":"622 Mount Auburn St",
@@ -2866,7 +3059,9 @@ businesses = [
            "Friday":"7:30-17:0",
            "Saturday":"7:30-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xlKLfEm9j1q6wWhO26iH6g",
         "name":"Central Paint & True Value",
         "address":"1206 River St",
@@ -2893,7 +3088,9 @@ businesses = [
            "Friday":"7:30-17:30",
            "Saturday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"gmLYiyg_hW_DVQWEPgfRQA",
         "name":"Viuda Bistro",
         "address":"108 N Main St",
@@ -2929,7 +3126,9 @@ businesses = [
            "Friday":"17:0-21:0",
            "Saturday":"17:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"FkS4OmTBeNHPK3sV4PBcIw",
         "name":"Heartbreak Hill Running Company",
         "address":"294 Massachusetts Ave",
@@ -2959,7 +3158,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"mBE0BkG-zTm-WCUVChIRCA",
         "name":"Oxygen Yoga & Fitness",
         "address":"564 West Broadway",
@@ -2985,7 +3186,9 @@ businesses = [
            "Saturday":"9:30-20:30",
            "Sunday":"9:30-20:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"CBkF_Ub_nxOhOEN3Zbo_RQ",
         "name":"Plaid Pantry",
         "address":"2010 N Killingsworth St",
@@ -3015,7 +3218,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"bS5DScsLQSFDcbGnPD2GbQ",
         "name":"Sage Clinic",
         "address":"487 Davie Street",
@@ -3041,7 +3246,9 @@ businesses = [
            "Friday":"10:0-18:0",
            "Saturday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"dVEMvNsqCHHGBkW0XAkFKg",
         "name":"Love Your Face Skin Clinic",
         "address":"288 Main St",
@@ -3066,7 +3273,9 @@ businesses = [
            "Friday":"10:0-20:0",
            "Saturday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"AzAT-AWII5PJVPIGB37tGQ",
         "name":"Bernard Watch Co.",
         "address":"3834 Spicewood Springs Rd, Ste 201",
@@ -3093,7 +3302,9 @@ businesses = [
            "Thursday":"10:0-15:0",
            "Friday":"10:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"aTAe3uMYBEwU0FbTMFEI5g",
         "name":"Urban Pantry",
         "address":"1128 NW Lovejoy St",
@@ -3135,7 +3346,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"TbZDLpBOl-EbO2LfMySrEg",
         "name":"First China Restaurant",
         "address":"5295 Buford Hwy NE",
@@ -3161,7 +3374,9 @@ businesses = [
         },
         "categories":"Restaurants, Chinese",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"52f_ztOVodIoV43Qt-R4rA",
         "name":"Taqueria So Mexican",
         "address":"SW 1st And Columbia",
@@ -3198,7 +3413,9 @@ businesses = [
            "Thursday":"9:30-15:0",
            "Friday":"9:30-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"8RWSB1i2nAC8IToBLdr3TA",
         "name":"Israel Book Shop",
         "address":"410 Harvard St",
@@ -3225,7 +3442,9 @@ businesses = [
            "Friday":"9:0-14:0",
            "Sunday":"9:0-14:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"qTdz29Nf3zoALiDDEKfWlw",
         "name":"Pho Oanh",
         "address":"2121 E Oltorf St, Ste 12B",
@@ -3257,7 +3476,9 @@ businesses = [
         },
         "categories":"Taiwanese, Vietnamese, Restaurants",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"zcSOyUPQopa6f8MU_cdNGA",
         "name":"M & B Tree Service",
         "address":"",
@@ -3284,7 +3505,9 @@ businesses = [
            "Saturday":"10:0-15:0",
            "Sunday":"9:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xF3Fjf89nwYas8WElCGDEg",
         "name":"Venetian Room",
         "address":"50 Hurt Plz",
@@ -3302,7 +3525,9 @@ businesses = [
         },
         "categories":"Venues & Event Spaces, Wedding Planning, Caterers, Event Planning & Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"jyb-bKcBJUVlB8LABv3X9Q",
         "name":"Jantzen Beach Modern Dentistry",
         "address":"12239 N Center Ave",
@@ -3327,7 +3552,9 @@ businesses = [
            "Thursday":"10:0-19:0",
            "Friday":"7:0-14:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"NoPXKdIwRzflOW-5exFAqA",
         "name":"1st Avenue Seafood by Pocha",
         "address":"901 Lougheed Hwy",
@@ -3355,7 +3582,9 @@ businesses = [
            "Saturday":"11:30-23:0",
            "Sunday":"11:30-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"XDv29FffNd2dWnDOtZP-wg",
         "name":"Sapporo Ramen",
         "address":"1815 Massachusetts Ave",
@@ -3402,7 +3631,9 @@ businesses = [
            "Saturday":"16:0-20:0",
            "Sunday":"16:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"qH6Elr-dW5FgDzu0eWXRIQ",
         "name":"Goodyear Auto Service",
         "address":"5015 N High St",
@@ -3428,7 +3659,9 @@ businesses = [
            "Friday":"8:0-17:0",
            "Saturday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"9VPjqOGkV2ARMr_wIGoCOg",
         "name":"Lavista Crossing",
         "address":"3797 Lavista Rd",
@@ -3453,7 +3686,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"10:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"JhkJCPHrJ1waumjZmEOQWw",
         "name":"Color Wheel After School Art Studio",
         "address":"508 East Howard Ave",
@@ -3480,7 +3715,9 @@ businesses = [
            "Thursday":"11:0-18:30",
            "Friday":"11:0-18:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"CtKjULH4WuxgB-mtFgBuBw",
         "name":"Long John Silvers",
         "address":"720 Old San Antonio Rd",
@@ -3507,7 +3744,9 @@ businesses = [
         },
         "categories":"Fast Food, Chicken Wings, Restaurants, Seafood",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"jpUJ8_gnWRLKxDCzDhmEgQ",
         "name":"About Women by Women",
         "address":"30 Washington St",
@@ -3531,7 +3770,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"3_RuVmLNa-1GNHOMvl_bsg",
         "name":"Something Fishy",
         "address":"2107 A E Semoran Blvd",
@@ -3578,7 +3819,9 @@ businesses = [
            "Saturday":"11:0-21:0",
            "Sunday":"12:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"HQr0FKztndabrhxMw1bYqQ",
         "name":"Antiques On The Avenue",
         "address":"505 N Park Ave",
@@ -3603,7 +3846,9 @@ businesses = [
            "Friday":"10:30-17:30",
            "Saturday":"10:30-5:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"gUws1XL1ktLNG1X0a7Turw",
         "name":"Murray Insurance Agency",
         "address":"195 Wekiva Springs Rd, Ste 100",
@@ -3624,7 +3869,9 @@ businesses = [
            "Thursday":"8:30-17:0",
            "Friday":"8:30-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"7f4z43MHAV-l-LsRYsasAg",
         "name":"VietRiver",
         "address":"1817 S Washington Ave",
@@ -3666,7 +3913,9 @@ businesses = [
            "Friday":"11:0-21:30",
            "Saturday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Gr4-knYkEFGhDehOkaXgxQ",
         "name":"Crimson",
         "address":"4066 Worth Ave",
@@ -3681,7 +3930,9 @@ businesses = [
         "attributes":null,
         "categories":"Coffee & Tea, Food",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"ZWhzrcikNsX7-AXqm99U8g",
         "name":"Bee Line Alignment",
         "address":"1030 Harmon Ave",
@@ -3705,7 +3956,9 @@ businesses = [
            "Thursday":"8:0-16:30",
            "Friday":"8:0-16:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"0GMFteLQFzUogXFK9STGtA",
         "name":"Fundamental Health Solutions",
         "address":"1600 W 38th St, Ste 120, The Jefferson Building",
@@ -3727,7 +3980,9 @@ businesses = [
            "Tuesday":"10:30-16:0",
            "Wednesday":"10:30-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"BGLqNLxH8p3dEoiLVLRq1A",
         "name":"Fukami Sushiya",
         "address":"4246 SE Belmont",
@@ -3766,7 +4021,9 @@ businesses = [
            "Friday":"17:30-21:0",
            "Saturday":"17:30-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ouEk8za4bdmPnLyh0f1ugg",
         "name":"Urban Air Adventure Park - Reynoldsburg",
         "address":"6314 Livingston Ave",
@@ -3795,7 +4052,9 @@ businesses = [
            "Saturday":"10:0-22:0",
            "Sunday":"10:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ipsTYb3c_OcuzmZZyhWh3w",
         "name":"Catherine's Pet Sitting",
         "address":"",
@@ -3816,7 +4075,9 @@ businesses = [
            "Thursday":"10:0-18:0",
            "Friday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"voim57uVEODiIADpDZ_Eng",
         "name":"Smallfry",
         "address":"4107 NE Tillamook St",
@@ -3847,7 +4108,9 @@ businesses = [
            "Saturday":"11:0-17:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"t2xsi7qIN0iwGiOyCn7k8Q",
         "name":"TT the Bear's Place",
         "address":"10 Brookline St",
@@ -3882,7 +4145,9 @@ businesses = [
            "Saturday":"18:0-2:0",
            "Sunday":"18:0-1:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"jfDfHzAq6iKkRnzzZ4n1nQ",
         "name":"Let's Roll Custom Sushi Bar",
         "address":"1184 Denman Street, Suite 104",
@@ -3919,7 +4184,9 @@ businesses = [
            "Saturday":"11:0-22:0",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"5eq56X-e9YbAKmHgUOyXSg",
         "name":"Hunan Lion",
         "address":"2038 Crown Plaza",
@@ -3962,7 +4229,9 @@ businesses = [
            "Saturday":"12:0-22:30",
            "Sunday":"12:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"mHryNAZtrclEGwnBNfQWNQ",
         "name":"Gabrielle's Salon and Extensions Boutique",
         "address":"9012 Research Blvd, Ste C8",
@@ -3994,7 +4263,9 @@ businesses = [
            "Friday":"9:0-19:0",
            "Saturday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_p53vrNvW47kNZvRzTQL8A",
         "name":"Teriyaki House",
         "address":"868 Broadway",
@@ -4037,7 +4308,9 @@ businesses = [
            "Saturday":"11:30-23:0",
            "Sunday":"12:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"9C2lhZ4qRH5H2zMjmto1ng",
         "name":"The Primavera Restaurant",
         "address":"289 Walk Hill St",
@@ -4075,7 +4348,9 @@ businesses = [
            "Saturday":"9:0-20:0",
            "Sunday":"8:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xJvsYeY9u5RLLZpXJqJEgw",
         "name":"Deja Vu Creperie",
         "address":"480 N Orlando Ave, Ste 126",
@@ -4114,7 +4389,9 @@ businesses = [
            "Saturday":"9:0-22:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"t-jwGEBsMYlQYxiiqImpIQ",
         "name":"Ocean King Market",
         "address":"14930 SE Mill Plain Blvd, Ste 108",
@@ -4142,7 +4419,9 @@ businesses = [
            "Saturday":"9:30-20:0",
            "Sunday":"9:30-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"JeU01XydOJZBWAnlqHwP7w",
         "name":"Bawarchi Tikka Kabob & Curry House",
         "address":"11115 NE 4th Plain Rd",
@@ -4174,7 +4453,9 @@ businesses = [
         },
         "categories":"Indian, Restaurants",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"qZH9fTs1a7dOXrM7dZjKwQ",
         "name":"C-Lovers Fish & Chips",
         "address":"8-555 Clarke Rd",
@@ -4213,7 +4494,9 @@ businesses = [
            "Saturday":"11:0-20:0",
            "Sunday":"16:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"wNR3CP5cbR--7MU0DkwBtw",
         "name":"Chocolaterie Bernard Callebaut",
         "address":"8120 Number 2 Road, Suite 188",
@@ -4237,7 +4520,9 @@ businesses = [
            "Friday":"10:0-18:0",
            "Saturday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"L-Stk9lkVfPSFQlrFukCwA",
         "name":"Bill's Pizzeria",
         "address":"753 Beacon St",
@@ -4282,7 +4567,9 @@ businesses = [
            "Saturday":"10:0-22:0",
            "Sunday":"10:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"m--WeFBAQaz5rHmJ-aRlkQ",
         "name":"Sweet Tomatoes",
         "address":"474 W State Road 436",
@@ -4326,7 +4613,9 @@ businesses = [
            "Saturday":"8:0-22:0",
            "Sunday":"8:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"OfA_4cHgvlknHMcn0qNs2w",
         "name":"Little Caesars",
         "address":"7010 Kerr Street",
@@ -4362,7 +4651,9 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Fl_7YDOMt58rTNHa7p2G4w",
         "name":"Waffle House",
         "address":"3085 Broadway",
@@ -4402,7 +4693,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"mIKAfMNVtidlERuQmclWNg",
         "name":"Emily M. Wise MD",
         "address":"20 William St, Ste G15",
@@ -4423,7 +4716,9 @@ businesses = [
            "Thursday":"8:0-16:0",
            "Friday":"8:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"YMVKMhC2b2YB7GmKP7M52w",
         "name":"CareOne at Weymouth",
         "address":"64 Performance Dr",
@@ -4438,7 +4733,9 @@ businesses = [
         "attributes":null,
         "categories":"Retirement Homes, Health & Medical, Assisted Living Facilities, Skilled Nursing",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"bP6goJODwRnM3AVy45Kn9w",
         "name":"Papi's Cuban & Caribbean Grill",
         "address":"216 Ponce De Leon Ave NE",
@@ -4485,7 +4782,9 @@ businesses = [
            "Saturday":"12:0-22:0",
            "Sunday":"12:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"0Q7svPlpg8YOy_mzsr6vww",
         "name":"Sunny Girl Spray Tan ATX",
         "address":"",
@@ -4516,7 +4815,9 @@ businesses = [
            "Saturday":"8:0-22:0",
            "Sunday":"8:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"vecuat0jOia-CJveW3ngDw",
         "name":"Schmidt's Sausage Haus",
         "address":"240 E Kossuth St",
@@ -4564,7 +4865,9 @@ businesses = [
            "Saturday":"11:0-21:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"vZNOofwzGjVMSlBKRo1QCA",
         "name":"Flex Appeal",
         "address":"276 Cambridge St",
@@ -4595,7 +4898,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fQQMzZs2oF3mIse1rAYhVA",
         "name":"Cherry Blossom Cottage",
         "address":"11177 SE Cherry Blossom Dr",
@@ -4618,7 +4923,9 @@ businesses = [
            "Thursday":"9:0-17:0",
            "Friday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"n4dg97jn6hYFLgFq_Mlkqw",
         "name":"Alpine Insurance of Texas - Austin",
         "address":"12731 Research Blvd, A103",
@@ -4639,7 +4946,9 @@ businesses = [
            "Thursday":"9:0-18:30",
            "Friday":"9:0-18:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"ushDMTS4Vk3oWDcARk_FNw",
         "name":"Heights Armour",
         "address":"415 Armour Dr NE",
@@ -4663,7 +4972,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"10:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"zHMsnpMPanzRx-A6AwGSdw",
         "name":"Ecco Beauty Hair Salon",
         "address":"2 Boylston St, Ste 101",
@@ -4696,7 +5007,9 @@ businesses = [
            "Saturday":"11:0-18:30",
            "Sunday":"11:0-18:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"yCeENvVAGQQ0PeeWU0Pl2g",
         "name":"Nature's Table Bistro",
         "address":"6000 N Terminal Pkwy, Concourse E Centrepoint, Concourse E",
@@ -4739,7 +5052,9 @@ businesses = [
            "Saturday":"6:0-22:0",
            "Sunday":"6:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"G1KjtSHx7L-a_G-TQWEnoA",
         "name":"Image Nails & Spa",
         "address":"8081 Turkey Lake Rd",
@@ -4770,7 +5085,9 @@ businesses = [
            "Friday":"10:0-18:30",
            "Saturday":"10:0-18:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"vhkMPYcKXznnHNkSWfF4kQ",
         "name":"Rip City Towing",
         "address":"",
@@ -4793,7 +5110,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_8Hejg5Q-_izIhLvq2ocnw",
         "name":"Sancho's Authentic Mexican Restaurant",
         "address":"6545 Gunpark Dr, Ste 280",
@@ -4837,7 +5156,9 @@ businesses = [
            "Friday":"11:0-20:0",
            "Saturday":"11:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"94BJ2Gkabruz5P8fBC8yfg",
         "name":"Everyday Music",
         "address":"1931 NE Sandy Blvd",
@@ -4865,7 +5186,9 @@ businesses = [
            "Saturday":"10:0-22:0",
            "Sunday":"10:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"U61wCfYCVN_8Qjz30KZdCw",
         "name":"PLAYlive Nation",
         "address":"9493 SW Washington Square Rd",
@@ -4888,7 +5211,9 @@ businesses = [
            "Saturday":"11:0-21:0",
            "Sunday":"11:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_JvQQ-2t7e2tXDZUfLsTtA",
         "name":"Filza Khan, DPM",
         "address":"230 Lowell St",
@@ -4911,7 +5236,9 @@ businesses = [
            "Thursday":"9:0-17:0",
            "Friday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fK28jGpA-lncU8zvQ71RVQ",
         "name":"Accurate Nails & Spa",
         "address":"769 Carnarvon Street",
@@ -4939,7 +5266,9 @@ businesses = [
            "Saturday":"10:0-19:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"0TXro5LzKPVsWcIqePSLOA",
         "name":"Bicycle One",
         "address":"82 Mill St",
@@ -4968,7 +5297,9 @@ businesses = [
            "Friday":"10:0-19:0",
            "Saturday":"10:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"pewcbd-NCgj1LXJNifFA4g",
         "name":"Brian's Brew",
         "address":"515 Congress Ave, Ste 135",
@@ -4998,7 +5329,9 @@ businesses = [
            "Thursday":"7:0-15:0",
            "Friday":"7:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xSLdQjPgMhBrNIEtUgdWUA",
         "name":"Colossus Pizza",
         "address":"4369 Hugh Howell Rd",
@@ -5048,7 +5381,9 @@ businesses = [
            "Saturday":"12:0-22:0",
            "Sunday":"12:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"vs5DsI27LqC2edekZGSO9Q",
         "name":"Advanced Boarding & Grooming",
         "address":"8164 Columbus Pike",
@@ -5063,7 +5398,9 @@ businesses = [
         "attributes":null,
         "categories":"Animal Shelters, Pet Groomers, Pet Sitting, Pet Services, Pets",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"RBWMa8Fi8oh4rZduVzlrlA",
         "name":"Goodwin's High End",
         "address":"899 Main St",
@@ -5090,7 +5427,9 @@ businesses = [
            "Friday":"11:0-18:0",
            "Saturday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"mkSHe6lUj-3ER5GTWTtIdA",
         "name":"Eagle Landing",
         "address":"10220 SE Causey Ave",
@@ -5122,7 +5461,9 @@ businesses = [
            "Saturday":"9:0-22:0",
            "Sunday":"9:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"dw7luYog-E4WZ0DzKUxZ_g",
         "name":"Red Roof PLUS+ Orlando-Convention Center\/ Int'l Dr",
         "address":"8342 Jamaican Ct",
@@ -5150,7 +5491,9 @@ businesses = [
            "Saturday":"0:0-23:59",
            "Sunday":"0:0-23:59"
         }
-     }{
+     }
+     
+     {
         "business_id":"pRfU4NPmIbyNhCJh3I-EaA",
         "name":"Clark Oral Surgery and Implant Center",
         "address":"9430 SW Coral St, Ste 200",
@@ -5173,7 +5516,9 @@ businesses = [
            "Thursday":"7:30-16:30",
            "Friday":"7:30-16:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"69CVhHiggPJeGnghi4TkEg",
         "name":"Stability Pilates & Physical Therapy",
         "address":"5975 Roswell Rd, Ste C-333",
@@ -5202,7 +5547,9 @@ businesses = [
            "Saturday":"9:0-12:0",
            "Sunday":"10:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fjEg_jdyaXI2zdTlltXDoA",
         "name":"Unity  Nails Salon",
         "address":"3590 N Hwy 17-92",
@@ -5228,7 +5575,9 @@ businesses = [
            "Friday":"10:0-18:0",
            "Saturday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"eKQ_i0799txPXIL8fU0xEQ",
         "name":"Classic Cut's Barbershop",
         "address":"6780 Roswell Rd, Ste C-100",
@@ -5249,7 +5598,9 @@ businesses = [
         },
         "categories":"Barbers, Beauty & Spas",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"-t07XlNaUn3NdyB9LMkjFA",
         "name":"Trapelo Mobil",
         "address":"1033 Trapelo Rd",
@@ -5266,7 +5617,9 @@ businesses = [
         },
         "categories":"Automotive, Gas Stations",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"qXf2305Fdy7V8EV2h3BjGQ",
         "name":"Time Escape",
         "address":"3471 No 3 Road, Unit 140",
@@ -5299,7 +5652,9 @@ businesses = [
            "Saturday":"11:0-0:0",
            "Sunday":"11:0-22:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"LdMKl3Pr4brsxWUMSvpzdw",
         "name":"Briers Home Furnishings",
         "address":"2025 W 4th Avenue",
@@ -5327,7 +5682,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"V-L5G5WsOeX5dfwF6C0fqQ",
         "name":"Hesson Plumbing",
         "address":"11717 Brookwood Ct",
@@ -5353,7 +5710,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"5FMNqsu4O_XPzy3395ogXg",
         "name":"Forever Nails",
         "address":"1539 Broadway",
@@ -5374,7 +5733,9 @@ businesses = [
         },
         "categories":"Nail Salons, Beauty & Spas",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"dW_vxvERiGFIlx4IFMyf-g",
         "name":"Hawthorne Auto Clinic",
         "address":"4307 SE Hawthorne Blvd",
@@ -5398,7 +5759,9 @@ businesses = [
            "Thursday":"7:30-18:0",
            "Friday":"7:30-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"FfMD15rgA4gHG9beoEkZ8Q",
         "name":"Buka Restaurant and Lounge",
         "address":"5475 Memorial Dr",
@@ -5431,7 +5794,9 @@ businesses = [
            "Saturday":"12:0-1:0",
            "Sunday":"12:0-1:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"e-uSjQP0abPwWSVHaHN_fg",
         "name":"Essex Neurological Associates",
         "address":"6 Essex Center Dr, Ste 307",
@@ -5454,7 +5819,9 @@ businesses = [
            "Thursday":"8:30-17:0",
            "Friday":"8:30-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"zY12NvWB5QKNuLh9tbLEsA",
         "name":"Donnie's Country Cookin'",
         "address":"3300 Clairmont Rd NE, Ste A",
@@ -5495,7 +5862,9 @@ businesses = [
            "Friday":"6:30-18:0",
            "Saturday":"8:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"D5x_gVSaWRr_TarjloJcGg",
         "name":"Town Taxi",
         "address":"52 Electric Ave",
@@ -5510,7 +5879,9 @@ businesses = [
         "attributes":null,
         "categories":"Transportation, Taxis, Hotels & Travel",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"rlSnBQ3N5q6tWLS24nK59g",
         "name":"Bertolli Floors",
         "address":"1 Glenlake Pkwy Atlanta Ga 30328, Unit 650",
@@ -5535,7 +5906,9 @@ businesses = [
            "Friday":"9:0-17:0",
            "Saturday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Wn00wa3ZUYIopTzGruWtCw",
         "name":"Artistic Threading Studio",
         "address":"1241 Hancock St",
@@ -5568,7 +5941,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"9Q_jQiJdv5I_cevEaHsHqA",
         "name":"Sporty's Car Wash",
         "address":"1810 S Woodland Blvd",
@@ -5593,7 +5968,9 @@ businesses = [
            "Saturday":"8:0-20:0",
            "Sunday":"9:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fDJm1OQWJg6XyuVTcxoemg",
         "name":"The Barrel",
         "address":"613 Main St",
@@ -5621,7 +5998,9 @@ businesses = [
            "Friday":"6:30-20:0",
            "Saturday":"7:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"syEVZu0zPcIigtby0H_x9Q",
         "name":"Tisol Pet Nutrition & Supply Store",
         "address":"5431 Number 3 Road",
@@ -5644,7 +6023,9 @@ businesses = [
            "Saturday":"9:0-18:0",
            "Sunday":"9:30-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"tm5RUueZr0ss56M1RJTjlQ",
         "name":"Strut Orthotics",
         "address":"2956 West 4th Avenue",
@@ -5667,7 +6048,9 @@ businesses = [
            "Friday":"8:30-15:30",
            "Saturday":"10:0-13:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"r_sOAVfNPaXrpjznZpuxeg",
         "name":"Papi Chulo's",
         "address":"611 NW 13th Ave",
@@ -5712,7 +6095,9 @@ businesses = [
            "Saturday":"12:0-21:0",
            "Sunday":"12:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"-0AVYSnp6IZtsm6QFeGIdw",
         "name":"Vox Veniae",
         "address":"3106 E 14th 1\/2 St",
@@ -5733,7 +6118,9 @@ businesses = [
            "Friday":"10:0-17:0",
            "Sunday":"10:30-12:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"sLQ__kSK1CNp5YTeM1Xlkg",
         "name":"Wine and Canvas - Portland",
         "address":"",
@@ -5761,7 +6148,9 @@ businesses = [
            "Saturday":"18:0-21:0",
            "Sunday":"14:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"opdd6sSWjwiy-doXnlpMeA",
         "name":"Tin Lizzy's Cantina",
         "address":"229 Peachtree St",
@@ -5776,7 +6165,9 @@ businesses = [
         "attributes":null,
         "categories":"Restaurants, Nightlife, Mexican, Bars, Sports Bars, Tex-Mex",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"bSzm_IIP0Is0H6QP7yUgJQ",
         "name":"Alohomora Locksmith & Garage Door",
         "address":"6868 SW Terwilliger Blvd",
@@ -5802,7 +6193,9 @@ businesses = [
            "Saturday":"6:0-0:0",
            "Sunday":"6:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"zYMjNc-Q7-T238SHylKgKA",
         "name":"Chinatown Restaurant & Lucky Bistro",
         "address":"14455 SW Pacific Hwy",
@@ -5841,7 +6234,9 @@ businesses = [
            "Saturday":"10:30-22:0",
            "Sunday":"10:30-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"YiwC9uu9RUKqCaeTueNW7w",
         "name":"Verizon",
         "address":"262 Andover St",
@@ -5871,7 +6266,9 @@ businesses = [
            "Saturday":"10:0-20:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"EJ58GOWZplYJkj4TkDuSXw",
         "name":"D'angelo Sandwich Shop",
         "address":"1277 Broadway",
@@ -5900,7 +6297,9 @@ businesses = [
         },
         "categories":"Restaurants, Delis",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"c7SpDCrvkoFWOsMQH1gmkQ",
         "name":"Limestone Canyon Apartments",
         "address":"12118 Walnut Park Xing",
@@ -5926,7 +6325,9 @@ businesses = [
            "Saturday":"10:0-17:0",
            "Sunday":"13:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Pk4ZwXwUU50BDn5gqw_rKg",
         "name":"Johnny Carino's",
         "address":"9500 S IH-35 Service Rd",
@@ -5972,7 +6373,9 @@ businesses = [
            "Saturday":"11:0-22:30",
            "Sunday":"11:0-21:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"UKIBQrRbY_jo52yHWcZE8g",
         "name":"Noah Halal",
         "address":"310 SW 5th Ave",
@@ -6013,7 +6416,9 @@ businesses = [
            "Saturday":"11:0-18:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"zvOYWKm4P6avcTivXIf4Zg",
         "name":"6.0 Di Vision",
         "address":"5935 SE Division St",
@@ -6032,7 +6437,9 @@ businesses = [
         },
         "categories":"Optometrists, Health & Medical, Eyewear & Opticians, Doctors, Shopping, Pharmacy, Ophthalmologists",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"qiWI8DwBeD9tVJY12V2T4A",
         "name":"Jackson's Poultry",
         "address":"1689 Johnston St",
@@ -6058,7 +6465,9 @@ businesses = [
            "Saturday":"9:0-19:0",
            "Sunday":"9:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_DyBDaC2ltGxhJJ9PsWS7Q",
         "name":"Steele's Appliance & Home Repair Service",
         "address":"5401 Aqua St",
@@ -6087,7 +6496,9 @@ businesses = [
            "Saturday":"8:0-22:0",
            "Sunday":"8:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"EkUH92ZS0vaVwUJFEPGhfw",
         "name":"Verizon Authorized Retailer - Victra",
         "address":"14673 SE Sunnyside Rd",
@@ -6115,7 +6526,9 @@ businesses = [
            "Saturday":"9:0-20:0",
            "Sunday":"10:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"V0rGM46G0x2cy9RfUt1qPQ",
         "name":"Chung's Asian Cuisine",
         "address":"731 Granite St",
@@ -6156,7 +6569,9 @@ businesses = [
            "Saturday":"12:0-0:0",
            "Sunday":"12:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Hwat46y25xn1WZHF0L8D6A",
         "name":"Millworks Apartments",
         "address":"1888 Emery St NW",
@@ -6179,7 +6594,9 @@ businesses = [
            "Saturday":"10:0-17:0",
            "Sunday":"13:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"diB_y_0tPzz-OAe5xgFXtw",
         "name":"Chick-fil-A",
         "address":"2340 N Druid Hills Rd NE",
@@ -6222,7 +6639,9 @@ businesses = [
            "Friday":"6:0-18:0",
            "Saturday":"10:30-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"3ECKiRRR-I2YJXwtLI1g0Q",
         "name":"Bright Car Wash",
         "address":"4301 N Shallowford Rd",
@@ -6249,7 +6668,9 @@ businesses = [
            "Saturday":"10:0-19:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"HVpIq8w2SMZK9MQT9u3yng",
         "name":"Gourmet Garden",
         "address":"139 Endicott St",
@@ -6275,7 +6696,9 @@ businesses = [
            "Saturday":"11:30-22:45",
            "Sunday":"11:30-21:45"
         }
-     }{
+     }
+     
+     {
         "business_id":"QumDXltJNac_8vMbquQnPw",
         "name":"YOO on the Park",
         "address":"207 13th St NE",
@@ -6301,7 +6724,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"10:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"A40p61gnz_7orVAr9YYHPg",
         "name":"Medical Express PSI",
         "address":"1701 W Ben White Blvd, Ste 162",
@@ -6328,7 +6753,9 @@ businesses = [
            "Thursday":"9:0-17:0",
            "Friday":"9:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"2KtXDgxuiC4Xx3Cn6zn5_Q",
         "name":"Bella Mia",
         "address":"446 Boston Rd",
@@ -6355,7 +6782,9 @@ businesses = [
            "Friday":"10:0-20:0",
            "Saturday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"7BYna5rvlqxgzV4Yxhzpew",
         "name":"Home-Aid Home Repair",
         "address":"3085 Colonial Way, Ste B",
@@ -6378,7 +6807,9 @@ businesses = [
            "Saturday":"9:0-21:0",
            "Sunday":"9:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"p9_tl3SckaGUjToGCz2frA",
         "name":"Chillax Massage",
         "address":"1700 S Lamar Blvd",
@@ -6407,7 +6838,9 @@ businesses = [
            "Saturday":"13:30-18:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"qaLqljVwdG4h0fqTKHJ4TQ",
         "name":"Mojave",
         "address":"415 SW 13th Ave",
@@ -6434,7 +6867,9 @@ businesses = [
            "Saturday":"11:0-19:0",
            "Sunday":"12:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"v7w5h6JMrhumvoJA8n5VZQ",
         "name":"Dunkin'",
         "address":"3635 Aloma Ave, Ste 1001",
@@ -6468,7 +6903,9 @@ businesses = [
            "Saturday":"5:0-22:0",
            "Sunday":"6:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"RprHV88rD26v53TaTSVqgg",
         "name":"Murray Family Dentistry",
         "address":"133 S McCaslin Blvd, Ste B",
@@ -6493,7 +6930,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"7:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ZaMMUcOIngBCgxuKxFzfqg",
         "name":"McDonald's",
         "address":"1524 Georgesville Rd",
@@ -6536,7 +6975,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"x4R9azcmAF9T0-iJjVD3xg",
         "name":"Nailicious Nail Spa",
         "address":"1066 West Broadway",
@@ -6562,7 +7003,9 @@ businesses = [
            "Saturday":"11:0-20:0",
            "Sunday":"11:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"y030N-DD6G7lfWHO4A6ezw",
         "name":"Saltgrass Steak House",
         "address":"8850 Vineland Ave",
@@ -6606,7 +7049,9 @@ businesses = [
            "Saturday":"12:0-22:0",
            "Sunday":"12:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fD9EopsUWvimsi4eaS7uMA",
         "name":"The Wheelhouse Diner",
         "address":"453 Hancock St",
@@ -6650,7 +7095,9 @@ businesses = [
            "Saturday":"7:0-15:0",
            "Sunday":"7:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fyE5YY52BuPH9NUyvaTpSg",
         "name":"Hamm Autoworks",
         "address":"4601 NE 78th St, Ste 330",
@@ -6676,7 +7123,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"1-UieVZg_JBMq92xhF633A",
         "name":"Bella Fiori",
         "address":"",
@@ -6707,7 +7156,9 @@ businesses = [
            "Friday":"10:0-17:0",
            "Saturday":"10:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"9UbSRTD_Ly2AlJ1hjEt4TA",
         "name":"Uncle Tetsu's Japanese Cheesecake",
         "address":"1151 Robson Street",
@@ -6737,7 +7188,9 @@ businesses = [
            "Saturday":"10:0-20:0",
            "Sunday":"10:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"So4sUPedGUcyEMRAmDRgDw",
         "name":"Sabatino & Co",
         "address":"130 Newbury St",
@@ -6756,7 +7209,9 @@ businesses = [
         },
         "categories":"Cosmetics & Beauty Supply, Beauty & Spas, Shopping, Specialty Food, Food",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"_Z9-V7ezxypc3yNOHEuA-Q",
         "name":"Montvale Tire",
         "address":"365 Main St",
@@ -6780,7 +7235,9 @@ businesses = [
            "Friday":"8:30-17:30",
            "Saturday":"8:30-13:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xv8hs0judSWlavMhSnkMpw",
         "name":"Majestic Nails",
         "address":"244 Needham St",
@@ -6800,7 +7257,9 @@ businesses = [
         },
         "categories":"Nail Salons, Skin Care, Beauty & Spas, Eyelash Service",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"SHHxhkzbKBKvv2Mqe2Ylrw",
         "name":"Ernie's Lunch",
         "address":"458 Franklin St",
@@ -6839,7 +7298,9 @@ businesses = [
            "Friday":"6:0-14:0",
            "Saturday":"6:0-14:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"lYlJnN8m_pgn8U1r_BFrZA",
         "name":"The People's Yoga Southeast",
         "address":"4029 SE Hawthorne Blvd",
@@ -6860,7 +7321,9 @@ businesses = [
         },
         "categories":"Health & Medical, Yoga, Active Life, Fitness & Instruction",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"9v5PimfwxVg24lZb4rX7lQ",
         "name":"Barley's Homebrewing Supplies",
         "address":"101-455 E Columbia Street",
@@ -6886,7 +7349,9 @@ businesses = [
            "Friday":"10:0-18:0",
            "Saturday":"10:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"TGuQRvKHzr8lRXVCNOIkVA",
         "name":"Halsey Street Cleaners",
         "address":"10919 NE Halsey St",
@@ -6906,7 +7371,9 @@ businesses = [
         },
         "categories":"Local Services, Laundry Services, Dry Cleaning & Laundry",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"N6usNa3_rcYOb8NQ7-Wq3A",
         "name":"Pizza Pie-er",
         "address":"187 Hampshire St",
@@ -6946,7 +7413,9 @@ businesses = [
            "Saturday":"11:0-2:0",
            "Sunday":"11:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"GX-tl3rRwV7iNEuX39-PUA",
         "name":"L'Occitane en Provence",
         "address":"199 Boylston St, #S-131",
@@ -6967,7 +7436,9 @@ businesses = [
         },
         "categories":"Beauty & Spas, Cosmetics & Beauty Supply, Shopping, Skin Care",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"FdoplWp-0XqzRUkyNYruSQ",
         "name":"Coach & Carriage Auto Body",
         "address":"55 Middlesex Ave",
@@ -6990,7 +7461,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"7At-2aosTzh6pJcQyMrubA",
         "name":"Witch Tee's",
         "address":"Museum Pl",
@@ -7015,7 +7488,9 @@ businesses = [
            "Saturday":"10:0-20:0",
            "Sunday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"FRB3u9Y2boOGDjyQQo7UgA",
         "name":"Regina Pizzeria",
         "address":"Arsenal Mall, 485 Arsenal Street",
@@ -7054,7 +7529,9 @@ businesses = [
            "Saturday":"10:0-21:0",
            "Sunday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"INRbuzhBV5b07-Hd2wp8CA",
         "name":"Peet's Coffee",
         "address":"508 SW Broadway",
@@ -7079,7 +7556,9 @@ businesses = [
         },
         "categories":"Coffee & Tea, Restaurants, Food",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"qxnHt71f5BHVmzWKDTRCyA",
         "name":"Artisan Park Club",
         "address":"1343 Celebration Ave",
@@ -7120,7 +7599,9 @@ businesses = [
            "Saturday":"17:0-21:0",
            "Sunday":"10:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"76nVJTAWggnJu7FfTRU1UQ",
         "name":"Bellagios Pizza",
         "address":"12050 SE Sunnyside Rd",
@@ -7154,7 +7635,9 @@ businesses = [
         },
         "categories":"Pizza, Restaurants",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"3DFvutUSvHebYJ0Lb1oW6g",
         "name":"April Realty Services",
         "address":"5815 W William Cannon Dr, Ste 102",
@@ -7179,7 +7662,9 @@ businesses = [
            "Friday":"8:0-17:0",
            "Saturday":"9:0-12:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"j4kjeLmlcMKG9fsqr5vjMQ",
         "name":"Crepe Delicious",
         "address":"55 W Church St",
@@ -7205,7 +7690,9 @@ businesses = [
         },
         "categories":"Desserts, French, Food, Restaurants, Creperies",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"m_a0-8_wR1ypvZzDGeSIgA",
         "name":"Wingstop",
         "address":"5167 Kyle Center Dr, Ste 114",
@@ -7243,7 +7730,9 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_EbOP_aB6yVh9ORw6nvnRg",
         "name":"Downtown Vancouver Optometry Clinic",
         "address":"700 W Georgia Street",
@@ -7266,7 +7755,9 @@ businesses = [
            "Thursday":"7:30-17:0",
            "Friday":"7:30-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"bv-c1TCizcUiPz2iI02r3Q",
         "name":"Empire Loan",
         "address":"431 Lynnway",
@@ -7293,7 +7784,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"9:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"byh1TRP4H3vqHRCJayjszA",
         "name":"Richie's Barber Shop",
         "address":"3412 Aloma Ave",
@@ -7323,7 +7816,9 @@ businesses = [
            "Saturday":"10:0-18:30",
            "Sunday":"11:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"nyQlAZJwQX052OG5jes2CQ",
         "name":"Austin General Dentistry",
         "address":"7800 N Mopac Expy, Ste 330",
@@ -7346,7 +7841,9 @@ businesses = [
            "Wednesday":"7:30-15:30",
            "Thursday":"7:30-15:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"7IPhANX229XHo6I5w_BzxA",
         "name":"Lotus Kitchen",
         "address":"101 SE 82nd Ave",
@@ -7382,7 +7879,9 @@ businesses = [
            "Saturday":"9:0-19:30",
            "Sunday":"9:0-19:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"iDcT8noFyv1sEVzzEWq1ow",
         "name":"Flaming Grill & Buffet",
         "address":"950 American Legion Hwy",
@@ -7430,7 +7929,9 @@ businesses = [
            "Saturday":"11:0-22:30",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"OojxG51Ha1DiiQYxKoI6RA",
         "name":"Pascarti Hair & Nail Spa",
         "address":"5591 N Hamilton Rd",
@@ -7459,7 +7960,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"12:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"yoOkXGIafzbIZHwq6gJkgQ",
         "name":"Alberta Abbey",
         "address":"126 NE Alberta St",
@@ -7495,7 +7998,9 @@ businesses = [
            "Thursday":"9:0-15:0",
            "Friday":"9:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"7ee6XyKyeduI-Rbc6L5j2Q",
         "name":"NingTu Restaurant",
         "address":"2130 Kingsway",
@@ -7535,7 +8040,9 @@ businesses = [
            "Saturday":"17:30-21:30",
            "Sunday":"17:30-21:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"GyglPdfJM89if_5XSBIN7Q",
         "name":"Never Coffee",
         "address":"537 SW 12th Ave",
@@ -7570,7 +8077,9 @@ businesses = [
            "Saturday":"8:0-14:0",
            "Sunday":"8:0-14:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"Ieelu69Y23nbjKG3OGfwnw",
         "name":"McDonald's",
         "address":"5017 Hwy 290 W",
@@ -7607,7 +8116,9 @@ businesses = [
            "Saturday":"7:0-23:30",
            "Sunday":"7:0-22:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"_74hVYou5lG0sCjc4gsKDg",
         "name":"Scoops N More",
         "address":"672 Lowell St, Ste 2",
@@ -7625,7 +8136,9 @@ businesses = [
         },
         "categories":"Ice Cream & Frozen Yogurt, Food",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"rBQ5KTSm3-Ucq7wDFOm7pA",
         "name":"Barking Hound Village Westside",
         "address":"720 14th St NW",
@@ -7648,7 +8161,9 @@ businesses = [
            "Saturday":"8:0-17:0",
            "Sunday":"12:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"r-hWf-bd9im5rj_l2MeofQ",
         "name":"Take Five Café",
         "address":"102-609 Granville Street",
@@ -7670,7 +8185,9 @@ businesses = [
         },
         "categories":"Food, Coffee & Tea, Restaurants, Cafes",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"Y9L4i-68a5Hl0mQJXKgC2Q",
         "name":"Blissful Massage",
         "address":"460 5th St, Ste D",
@@ -7698,7 +8215,9 @@ businesses = [
            "Saturday":"11:0-16:0",
            "Sunday":"8:30-13:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"IFB2K3BEZ2L_Mv5AbUD26Q",
         "name":"Chispas",
         "address":"214 W 4th St",
@@ -7741,7 +8260,9 @@ businesses = [
            "Saturday":"11:0-0:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"uQYELxStzqFPlzVtufuekw",
         "name":"Bridgeport Family Medicine",
         "address":"16083 SW Upper Boones Ferry Rd, Ste 130",
@@ -7767,7 +8288,9 @@ businesses = [
            "Friday":"8:0-19:0",
            "Saturday":"13:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ggJvUpdNJdiUPNW83boV2g",
         "name":"Royal Shoe Renew",
         "address":"555 12th Avenue W",
@@ -7782,7 +8305,9 @@ businesses = [
         "attributes":null,
         "categories":"Shoe Repair, Local Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"tvy08s_lvOqTHlgibylB4w",
         "name":"CJS Cleaning Services",
         "address":"12750 NW Dogwood St, Ste 12",
@@ -7805,7 +8330,9 @@ businesses = [
            "Thursday":"8:0-18:0",
            "Friday":"8:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"KJBiD2TiptcncaH8RkKo6A",
         "name":"Target",
         "address":"3770 N Goldenrod Rd",
@@ -7846,7 +8373,9 @@ businesses = [
            "Saturday":"8:0-22:0",
            "Sunday":"8:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"lOrIttJhPbvIrZsO4rxyzQ",
         "name":"Bromfield Nails",
         "address":"23 Bromfield St",
@@ -7875,7 +8404,9 @@ businesses = [
            "Saturday":"9:0-19:0",
            "Sunday":"11:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_i64BkKLkm9qNn7WBQsMmQ",
         "name":"Double J Tire Center",
         "address":"6841 NE Martin Luther King  Blvd",
@@ -7900,7 +8431,9 @@ businesses = [
            "Friday":"9:0-18:0",
            "Saturday":"9:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"RYTazB6j1J3WbGOeK8onGQ",
         "name":"Budget Rent A Car",
         "address":"1 Jeff Fuqua Blvd",
@@ -7923,7 +8456,9 @@ businesses = [
            "Saturday":"0:0-0:0",
            "Sunday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"_WTQPEX3oNVT8cSz9UKsFQ",
         "name":"Geng Shi Ji",
         "address":"8338 Capstan Way",
@@ -7956,7 +8491,9 @@ businesses = [
            "Saturday":"17:0-22:0",
            "Sunday":"17:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"fBvQQUk1-V9IUA8PbuYFWg",
         "name":"Newk's Eatery",
         "address":"408 Congress Ave",
@@ -7995,7 +8532,9 @@ businesses = [
            "Thursday":"10:30-18:0",
            "Friday":"10:30-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"HunvZ5dE3-_kx-lcGBuweg",
         "name":"Prime Dental Care",
         "address":"11400 SE 37th Ave",
@@ -8019,7 +8558,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"4f1MpunVzcEZ2v4HNQa2uw",
         "name":"Lai Thai Food Cart",
         "address":"SW 2st Columbia St",
@@ -8056,7 +8597,9 @@ businesses = [
            "Thursday":"11:0-15:0",
            "Friday":"11:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"xH0jFsCsdC5qIRCPK2rQQw",
         "name":"Pain Relief Partners",
         "address":"406 SE 131st Ave, Ste 203",
@@ -8081,7 +8624,9 @@ businesses = [
            "Wednesday":"10:0-17:0",
            "Thursday":"8:30-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"ZmWg2G1pKlUDV9VkxdNY9A",
         "name":"State of Ohio BMV",
         "address":"1970 W Broad St",
@@ -8096,7 +8641,9 @@ businesses = [
         "attributes":null,
         "categories":"Public Services & Government",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"78jsDlz-HCFrsXqOxi5ybA",
         "name":"Newton St Garage Auto Serv",
         "address":"9 Newton St",
@@ -8113,7 +8660,9 @@ businesses = [
         },
         "categories":"Automotive, Auto Repair",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"xFT6TG7V6w9M8jd4h8mvTA",
         "name":"The Carpenter's Daughter",
         "address":"3090 Fisher Rd",
@@ -8140,7 +8689,9 @@ businesses = [
            "Saturday":"10:0-18:0",
            "Sunday":"12:0-16:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"k435gqoMV8HZTAqc1TaEpg",
         "name":"James Hicks, MD",
         "address":"12221 N Mo Pac Expy",
@@ -8157,7 +8708,9 @@ businesses = [
         },
         "categories":"Health & Medical, Doctors, Otologists",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"J4BjYHtwdY6i0_DaLgdWmg",
         "name":"Ridge Painting & Restoration",
         "address":"8 Ransom Rd, Ste 2",
@@ -8183,7 +8736,9 @@ businesses = [
            "Saturday":"7:0-21:30",
            "Sunday":"7:0-21:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"bBNCUzEJZn8ASQ5LNWOHEg",
         "name":"Panera Bread",
         "address":"1334 Park St",
@@ -8225,7 +8780,9 @@ businesses = [
            "Saturday":"7:0-21:0",
            "Sunday":"7:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"LjQ_z_eYTvbPkdnxD_Ucrw",
         "name":"Zaika Indian Contemporary Cuisine",
         "address":"9025 Research Blvd",
@@ -8265,7 +8822,9 @@ businesses = [
            "Saturday":"17:0-22:0",
            "Sunday":"17:0-21:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"FBFk8bV5pT7etlOjqFp70A",
         "name":"Embarc Vancouver",
         "address":"1001 Hornby Street",
@@ -8283,7 +8842,9 @@ businesses = [
         },
         "categories":"Hotels & Travel, Hotels, Resorts, Event Planning & Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"9Bt9MMtmjPB6IykEMrFB7A",
         "name":"Tavern in the Square",
         "address":"100 District Ave",
@@ -8329,7 +8890,9 @@ businesses = [
            "Saturday":"11:30-1:0",
            "Sunday":"10:0-1:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"C1Jkjsqoz1AsYJy28IosQg",
         "name":"La Michoacana Market",
         "address":"3160 S Hamilton Rd",
@@ -8359,7 +8922,9 @@ businesses = [
            "Saturday":"8:0-21:0",
            "Sunday":"8:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"LDVnIEG0bGHhBt__DPQvyQ",
         "name":"Dollar Tree Store",
         "address":"4571 Morse Centre Rd",
@@ -8387,7 +8952,9 @@ businesses = [
            "Saturday":"8:0-21:0",
            "Sunday":"9:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"NcFYw0jBKldrNXkhEzJnSg",
         "name":"Family Kitchen",
         "address":"198 Bunker Hill St",
@@ -8422,7 +8989,9 @@ businesses = [
            "Friday":"10:0-15:0",
            "Saturday":"11:0-15:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"LfNP5_Pi1w9nXDnoBZ2siw",
         "name":"H&M",
         "address":"4200 Conroy Rd",
@@ -8451,7 +9020,9 @@ businesses = [
            "Saturday":"10:0-21:0",
            "Sunday":"11:0-19:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"EXeV_qzezFDr2eU3Dk4nqA",
         "name":"Orlando Neurosurgery PA",
         "address":"1605 W Fairbanks Ave",
@@ -8466,7 +9037,9 @@ businesses = [
         "attributes":null,
         "categories":"Health & Medical, Neurologist, Surgeons, Doctors",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"7xOOgAzl-G2-X4WvG6DrMg",
         "name":"Kaplan Orthodontics",
         "address":"4700 Chamblee Dunwoody Rd, Ste 300",
@@ -8492,7 +9065,9 @@ businesses = [
            "Thursday":"8:0-17:0",
            "Friday":"8:0-12:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"VwJ_TK-HZcW_G-K70KpUlQ",
         "name":"Cosmetic Dental & Implant Center",
         "address":"5555 Peachtree Dunwoody Rd, Ste 140",
@@ -8515,7 +9090,9 @@ businesses = [
            "Wednesday":"8:30-17:30",
            "Thursday":"8:30-17:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"RCu6rMEuzYobGOSVws40fQ",
         "name":"Bugaboo Creek Steak House",
         "address":"551 John Mahar Hwy",
@@ -8556,7 +9133,9 @@ businesses = [
            "Saturday":"11:30-22:30",
            "Sunday":"11:30-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"f8V8ZAkASQCieNft2miQIQ",
         "name":"Solay Bistro",
         "address":"5786 Emporium Sq",
@@ -8583,7 +9162,9 @@ businesses = [
            "Saturday":"11:0-22:0",
            "Sunday":"11:0-21:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"GH3D02sDvOT4A9JxgL0sxg",
         "name":"Curly's Fried Chicken",
         "address":"1021 Howell Mill Rd",
@@ -8623,7 +9204,9 @@ businesses = [
            "Saturday":"12:0-23:0",
            "Sunday":"12:0-20:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"lyhNDfX8UatlRO5H3Kfccg",
         "name":"Caspian Kabob",
         "address":"4237 N Mississippi Ave",
@@ -8663,7 +9246,9 @@ businesses = [
         "hours":{
            "Monday":"0:0-0:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"A_BMUsg_EAwh-_XRFEUfDA",
         "name":"Discount Tire",
         "address":"1608 W Osceola Pkwy, Ste 300",
@@ -8689,7 +9274,9 @@ businesses = [
            "Friday":"8:0-18:0",
            "Saturday":"8:0-17:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"LniaQ-j3OG_qzaNSrewsbg",
         "name":"Cabbagetown Graffiti Murals",
         "address":"",
@@ -8704,7 +9291,9 @@ businesses = [
         "attributes":null,
         "categories":"Art Galleries, Arts & Entertainment, Shopping, Local Flavor",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"ZQe-QTcGpo8IAV0NHHpdhA",
         "name":"The Potting Bench",
         "address":"494 Quincy Ave",
@@ -8736,7 +9325,9 @@ businesses = [
            "Friday":"9:0-17:0",
            "Saturday":"9:0-12:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"aUo7uI2kEMzG4D8HSNzlVg",
         "name":"Star Motors",
         "address":"19215 SW Teton Ave",
@@ -8760,7 +9351,9 @@ businesses = [
            "Thursday":"8:0-17:30",
            "Friday":"8:0-17:30"
         }
-     }{
+     }
+     
+     {
         "business_id":"FJ-r3hOMbcq0p7Z5yH9oew",
         "name":"Olive Garden Italian Restaurant",
         "address":"1604 W Osceola Pkwy",
@@ -8810,7 +9403,9 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-22:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"AswfIMfS_1eLHQt_m0Poog",
         "name":"Archery Games Boston",
         "address":"121 Webster Ave, Ste 3",
@@ -8832,7 +9427,9 @@ businesses = [
            "Saturday":"11:0-23:0",
            "Sunday":"11:0-23:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"p5dm2fCBQ0_hysaWtXxCqQ",
         "name":"Ansley Mall Cleaners",
         "address":"1544 Piedmont Ave NE",
@@ -8852,7 +9449,9 @@ businesses = [
         },
         "categories":"Local Services, Dry Cleaning & Laundry, Laundry Services",
         "hours":null
-     }{
+     }
+     
+     {
         "business_id":"wz2x3OLSuvpmzyfjdtGwWw",
         "name":"BedMart Mattress Superstores",
         "address":"6670 SW Bonita Rd",
@@ -8879,7 +9478,9 @@ businesses = [
            "Saturday":"9:0-18:0",
            "Sunday":"10:0-18:0"
         }
-     }{
+     }
+     
+     {
         "business_id":"LHPzReyrFStB08KwMcyP2w",
         "name":"Boat Cruise Summer Series",
         "address":"200 Seaport Blvd",

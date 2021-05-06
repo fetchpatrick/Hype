@@ -2,6 +2,8 @@ import React from 'react'
 
 import './styles/BusinessInfopage.css';
 
+import Reviews from './Reviews/Reviews'
+
 import businessImg from '../LandingPage/assetts/hype-hero.png'
 
 function businessInfoPage() {
@@ -24,8 +26,7 @@ function businessInfoPage() {
                             <p>Review</p>
                         </div>                
                         <div style={{ width:'100%', height:'100px', backgroundColor:'rgba(196, 196, 196, 0.3)', borderRadius:'5px'}}>
-                            <p style={{ fontFamily: 'Montserrat', fontweight:'600'}}>Review</p>
-                            <p>Review</p>
+                            <Reviews/>
                         </div>                
                     </div>
                 </div>
