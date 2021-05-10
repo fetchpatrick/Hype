@@ -1,5 +1,3 @@
-// https://hype.hasura.app/v1/graphql
-
 
 businesses = [
     

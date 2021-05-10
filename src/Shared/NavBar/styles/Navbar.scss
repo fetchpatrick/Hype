@@ -11,8 +11,8 @@
 	transition: background-color 0.3s;
 
 	&__active {
-		background: rgba(255, 145, 54, 0.9);
-		// background: transparent;
+		background: rgba(44, 44, 42, 0.9);
+		backdrop-filter: blur(10px);
 		box-shadow: 0px 4px 11px 0px #00000040;
 
 		padding: 20px 140px 20px 140px;

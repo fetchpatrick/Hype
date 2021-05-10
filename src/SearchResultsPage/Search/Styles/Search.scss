@@ -1,0 +1,16 @@
+.search {
+	height: 100%;
+	width: 100vw;
+	display: grid;
+	justify-content: center;
+
+	&__bar {
+		display: flex;
+		flex-direction: row;
+		margin: 30px;
+	}
+
+	&__results {
+		overflow: scroll;
+	}
+}

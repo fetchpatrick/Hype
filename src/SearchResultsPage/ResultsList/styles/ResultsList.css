@@ -1,0 +1,39 @@
+.business {
+  height: 290px;
+  width: 827px;
+  background-color: white;
+  margin: 0 0 10px 0;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-shadow: 0px 4px 11px 0px #00000040;
+          box-shadow: 0px 4px 11px 0px #00000040;
+  border-radius: 5px;
+}
+
+.business h3 {
+  font-size: 18;
+  font-weight: 600;
+}
+
+.business p {
+  font-size: 18px;
+}
+
+.business__image {
+  width: 40%;
+  margin: 0 60px 0 0;
+}
+
+.business__image img {
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+/*# sourceMappingURL=ResultsList.css.map */

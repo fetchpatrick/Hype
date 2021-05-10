@@ -1,0 +1,25 @@
+.search {
+  height: 100%;
+  width: 100vw;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.search__bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin: 30px;
+}
+
+.search__results {
+  overflow: scroll;
+}
+/*# sourceMappingURL=Search.css.map */
