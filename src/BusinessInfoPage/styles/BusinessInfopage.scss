@@ -10,3 +10,34 @@
 	font-size: 18px;
 	margin-left: 5px;
 }
+
+.business {
+	min-height: 100vh;
+	padding-top: 15vh;
+	display: grid;
+	place-items: center;
+	background-color: #feffe5;
+	border-radius: 5px;
+
+	&__image {
+		min-height: 40vh;
+		width: auto;
+	}
+
+	&__review {
+		min-height: 5vh;
+		width: 98vw;
+		margin-bottom: 30px;
+
+		&--cta {
+			height: 100%;
+			width: 80%;
+			margin: 0 auto 0 auto;
+			margin-top: 3vh;
+		}
+		&--list {
+			min-height: 50vh;
+			width: 98vw;
+		}
+	}
+}

@@ -10,4 +10,32 @@
   font-size: 18px;
   margin-left: 5px;
 }
+
+.business {
+  min-height: 100vh;
+  padding-top: 15vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  background-color: #feffe5;
+  border-radius: 5px;
+}
+
+.business__image {
+  min-height: 40vh;
+  width: auto;
+}
+
+.business__review {
+  min-height: 5vh;
+  width: 98vw;
+  margin-bottom: 30px;
+}
+
+.business__review--cta {
+  height: 100%;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  margin-top: 3vh;
+}
 /*# sourceMappingURL=BusinessInfopage.css.map */
